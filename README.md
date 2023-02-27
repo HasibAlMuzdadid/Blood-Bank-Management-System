@@ -9,12 +9,12 @@
 Hasib Al Muzdadid</br>
 [Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/), </br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
-Portfolio: https://hasibalmuzdadid.github.io
+Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
 Email: muzdadid@gmail.com
 
 ## Project Description :
 A blood bank management system having features like online blood requesting, donor registering, blood camps, notice board, full list of donors etc.
 
-**Language used :** PHP, MySQL, HTML, CSS <br/>
+**Language used :** PHP, MySQL, HTML, CSS </br>
 **Development Tools :** VS Code, XAMPP
