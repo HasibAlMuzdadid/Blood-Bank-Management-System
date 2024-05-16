@@ -11,7 +11,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/) </br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+Email: muzdadid[AT]gmail.com
 
 ## Project Description :
 A blood bank management system having features like online blood requesting, donor registering, blood camps, notice board, full list of donors etc.
